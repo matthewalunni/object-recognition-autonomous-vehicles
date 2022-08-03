@@ -1,8 +1,5 @@
-from importlib.resources import path
-import urllib.request
 import zipfile
 import os
-import shutil
 import wget
 
 
